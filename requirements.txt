@@ -1,0 +1,5 @@
+# Runtime: Python 3.10+ standard library only (tkinter, sqlite3, csv, hashlib).
+# Development tools (optional):
+flake8>=7
+flake8-docstrings>=1.7
+pep8-naming>=0.14
